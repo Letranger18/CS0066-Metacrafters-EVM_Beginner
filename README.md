@@ -33,5 +33,5 @@ How to run the program
 ## Authors
 
 John Benedict C. Signo
-> 202110485@fit.edu.ph
-> FEU Institute of Technology - BSCSSE - CS0066 - TN42
+- 202110485@fit.edu.ph
+- FEU Institute of Technology - BSCSSE - CS0066 - TN42
